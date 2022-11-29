@@ -78,3 +78,5 @@ anims/Parado = SubResource( 3 )
 anims/RESET = SubResource( 4 )
 
 [connection signal="area_entered" from="." to="." method="_on_pig_area_entered"]
+
+
